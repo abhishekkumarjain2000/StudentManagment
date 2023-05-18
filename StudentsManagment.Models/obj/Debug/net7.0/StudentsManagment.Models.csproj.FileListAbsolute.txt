@@ -1,0 +1,28 @@
+D:\Abhishek\Student Managment\StudentsManagment.Models\bin\Debug\net7.0\StudentsManagment.Models.deps.json
+D:\Abhishek\Student Managment\StudentsManagment.Models\bin\Debug\net7.0\StudentsManagment.Models.runtimeconfig.json
+D:\Abhishek\Student Managment\StudentsManagment.Models\bin\Debug\net7.0\StudentsManagment.Models.dll
+D:\Abhishek\Student Managment\StudentsManagment.Models\bin\Debug\net7.0\StudentsManagment.Models.pdb
+D:\Abhishek\Student Managment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.csproj.AssemblyReference.cache
+D:\Abhishek\Student Managment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abhishek\Student Managment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.AssemblyInfoInputs.cache
+D:\Abhishek\Student Managment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.AssemblyInfo.cs
+D:\Abhishek\Student Managment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.csproj.CoreCompileInputs.cache
+D:\Abhishek\Student Managment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.dll
+D:\Abhishek\Student Managment\StudentsManagment.Models\obj\Debug\net7.0\refint\StudentsManagment.Models.dll
+D:\Abhishek\Student Managment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.pdb
+D:\Abhishek\Student Managment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.genruntimeconfig.cache
+D:\Abhishek\Student Managment\StudentsManagment.Models\obj\Debug\net7.0\ref\StudentsManagment.Models.dll
+D:\Abhishek\StudentManagment\StudentsManagment.Models\bin\Debug\net7.0\StudentsManagment.Models.deps.json
+D:\Abhishek\StudentManagment\StudentsManagment.Models\bin\Debug\net7.0\StudentsManagment.Models.runtimeconfig.json
+D:\Abhishek\StudentManagment\StudentsManagment.Models\bin\Debug\net7.0\StudentsManagment.Models.dll
+D:\Abhishek\StudentManagment\StudentsManagment.Models\bin\Debug\net7.0\StudentsManagment.Models.pdb
+D:\Abhishek\StudentManagment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.csproj.AssemblyReference.cache
+D:\Abhishek\StudentManagment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abhishek\StudentManagment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.AssemblyInfoInputs.cache
+D:\Abhishek\StudentManagment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.AssemblyInfo.cs
+D:\Abhishek\StudentManagment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.csproj.CoreCompileInputs.cache
+D:\Abhishek\StudentManagment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.dll
+D:\Abhishek\StudentManagment\StudentsManagment.Models\obj\Debug\net7.0\refint\StudentsManagment.Models.dll
+D:\Abhishek\StudentManagment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.pdb
+D:\Abhishek\StudentManagment\StudentsManagment.Models\obj\Debug\net7.0\StudentsManagment.Models.genruntimeconfig.cache
+D:\Abhishek\StudentManagment\StudentsManagment.Models\obj\Debug\net7.0\ref\StudentsManagment.Models.dll

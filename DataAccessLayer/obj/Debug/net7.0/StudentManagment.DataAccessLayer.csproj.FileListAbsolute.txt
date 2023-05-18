@@ -1,0 +1,34 @@
+D:\Abhishek\Student Managment\DataAccessLayer\bin\Debug\net7.0\StudentManagment.DataAccessLayer.deps.json
+D:\Abhishek\Student Managment\DataAccessLayer\bin\Debug\net7.0\StudentManagment.DataAccessLayer.runtimeconfig.json
+D:\Abhishek\Student Managment\DataAccessLayer\bin\Debug\net7.0\StudentManagment.DataAccessLayer.dll
+D:\Abhishek\Student Managment\DataAccessLayer\bin\Debug\net7.0\StudentManagment.DataAccessLayer.pdb
+D:\Abhishek\Student Managment\DataAccessLayer\bin\Debug\net7.0\StudentsManagment.Models.dll
+D:\Abhishek\Student Managment\DataAccessLayer\bin\Debug\net7.0\StudentsManagment.Models.pdb
+D:\Abhishek\Student Managment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Abhishek\Student Managment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abhishek\Student Managment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Abhishek\Student Managment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.AssemblyInfo.cs
+D:\Abhishek\Student Managment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Abhishek\Student Managment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.csproj.CopyComplete
+D:\Abhishek\Student Managment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.dll
+D:\Abhishek\Student Managment\DataAccessLayer\obj\Debug\net7.0\refint\StudentManagment.DataAccessLayer.dll
+D:\Abhishek\Student Managment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.pdb
+D:\Abhishek\Student Managment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.genruntimeconfig.cache
+D:\Abhishek\Student Managment\DataAccessLayer\obj\Debug\net7.0\ref\StudentManagment.DataAccessLayer.dll
+D:\Abhishek\StudentManagment\DataAccessLayer\bin\Debug\net7.0\StudentManagment.DataAccessLayer.deps.json
+D:\Abhishek\StudentManagment\DataAccessLayer\bin\Debug\net7.0\StudentManagment.DataAccessLayer.runtimeconfig.json
+D:\Abhishek\StudentManagment\DataAccessLayer\bin\Debug\net7.0\StudentManagment.DataAccessLayer.dll
+D:\Abhishek\StudentManagment\DataAccessLayer\bin\Debug\net7.0\StudentManagment.DataAccessLayer.pdb
+D:\Abhishek\StudentManagment\DataAccessLayer\bin\Debug\net7.0\StudentsManagment.Models.dll
+D:\Abhishek\StudentManagment\DataAccessLayer\bin\Debug\net7.0\StudentsManagment.Models.pdb
+D:\Abhishek\StudentManagment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Abhishek\StudentManagment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abhishek\StudentManagment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Abhishek\StudentManagment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.AssemblyInfo.cs
+D:\Abhishek\StudentManagment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Abhishek\StudentManagment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.csproj.CopyComplete
+D:\Abhishek\StudentManagment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.dll
+D:\Abhishek\StudentManagment\DataAccessLayer\obj\Debug\net7.0\refint\StudentManagment.DataAccessLayer.dll
+D:\Abhishek\StudentManagment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.pdb
+D:\Abhishek\StudentManagment\DataAccessLayer\obj\Debug\net7.0\StudentManagment.DataAccessLayer.genruntimeconfig.cache
+D:\Abhishek\StudentManagment\DataAccessLayer\obj\Debug\net7.0\ref\StudentManagment.DataAccessLayer.dll
