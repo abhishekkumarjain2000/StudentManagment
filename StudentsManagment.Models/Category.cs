@@ -20,6 +20,7 @@ namespace StudentsManagment.Models
         public string Description { get; set; } = string.Empty;
 
         [Required]
+        [DisplayName("Display Order")]
         public int DisplayOrder { get; set; }
 
         public DateTime CreatedDate { get; set; } = DateTime.Now;

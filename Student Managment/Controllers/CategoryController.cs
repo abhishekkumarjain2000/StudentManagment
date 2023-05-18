@@ -1,52 +1,78 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using StudentManagment.DataAccessLayer.Data;
+using StudentManagment.DataAccessLayer.Infrastructure.IRepository;
 using StudentsManagment.Models;
 
 namespace Student_Managment.Controllers
 {
     public class CategoryController : Controller
     {
-        private ApplicationDbContext _context;
-        public CategoryController(ApplicationDbContext context)
+        private IUnitOfWork _unitOfWork;
+        public CategoryController(IUnitOfWork unitOfWork)
         {
-            _context = context;
+            _unitOfWork = unitOfWork;
         }
 
         [HttpGet]
         public IActionResult Category_List()
         {
-            IEnumerable<Category> categories = _context.categories;
+            IEnumerable<Category> categories = _unitOfWork.Category.GetAll();
             return View(categories);
         }
 
         [HttpGet]
-        public IActionResult Create_Category()
+        public IActionResult Create_Category(int? Id)
         {
-
+            if (Id != null && Id > 0)
+            {
+                var data = _unitOfWork.Category.GetT(c => c.Id == Id);
+                return View(data);
+            }
             return View();
         }
+
         [HttpPost]
         public IActionResult Create_Category(Category category)
         {
-            if(ModelState.IsValid)
+            if (category.Id > 0)
             {
-                _context.Add(category);
-                _context.SaveChanges();
+                if (ModelState.IsValid)
+                {
+                    _unitOfWork.Category.Update(category);
+                    _unitOfWork.Save();
+                    TempData["success"] = "Record Update Sucessfully";
+                    return RedirectToAction("Category_List");
+                }
+                return View(category);
+            }
+            else if (ModelState.IsValid)
+            {
+                _unitOfWork.Category.Add(category);
+                _unitOfWork.Save();
+                TempData["success"] = "Record Save Sucessfully";
                 return RedirectToAction("Category_List");
             }
             return View(category);
         }
 
-        [HttpPut]
-        public IActionResult Update_Category()
+        [HttpGet]
+        public IActionResult Delete(int? Id)
         {
-
-            return View();
-        }
-
-        [HttpDelete]
-        public IActionResult Delete_Category()
-        {
+            if (Id > 0)
+            {
+                var category = _unitOfWork.Category.GetT(x => x.Id == Id);
+                if (category != null)
+                {
+                    _unitOfWork.Category.Delete(category);
+                    _unitOfWork.Save();
+                    TempData["success"] = "Record Delete Sucessfully";
+                    return RedirectToAction("Category_List");
+                }
+                else
+                {
+                    return NotFound();
+                }
+            }
             return View();
         }
 

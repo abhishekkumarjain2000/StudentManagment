@@ -1,10 +1,13 @@
 using Microsoft.EntityFrameworkCore;
 using StudentManagment.DataAccessLayer.Data;
+using StudentManagment.DataAccessLayer.Infrastructure.IRepository;
+using StudentManagment.DataAccessLayer.Infrastructure.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
